@@ -2,7 +2,8 @@
 
 # Documentation
 
-- [General Report](documentation%20,%20results%20and%20comparison/General%20Report.pdf)
+- [General Report](https://raw.githubusercontent.com/Rujab21/crop-disease-detector-Modelresearch/main/documentation%20,%20results%20and%20comparison/General%20Report.pdf)
+
 - [Cotton Report](documentation%20,%20results%20and%20comparison/cotton.pdf)
 - [Rice Report](documentation%20,%20results%20and%20comparison/rice.pdf)
 
